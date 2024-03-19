@@ -14,6 +14,8 @@ para iniciar en la rama que acaban de crear  usar este comando
 git checkout nombre_de_la_rama
 
 
+importante usar la base de datos anterior 
+
 
 
 
