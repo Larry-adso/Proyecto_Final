@@ -4,3 +4,16 @@ otra cosa en la carpeta php estar todo lo relacionado con  el login
 
 
 borrar todos lo archivos que digan borrar por favor 
+
+
+
+crear la nueva rama  ejecutar ebb terminal
+git branch nombre_de_la_rama
+
+para iniciar en la rama que acaban de crear  usar este comando 
+git checkout nombre_de_la_rama
+
+
+
+
+
