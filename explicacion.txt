@@ -16,6 +16,8 @@ git checkout nombre_de_la_rama
 
 importante usar la base de datos anterior 
 
+xd
+
 
 
 
