@@ -1,5 +1,5 @@
 <?php
-include "../conexion/db.php";
+include "../conexion/dbpost.php";
 session_start();
 
 if (!isset($_SESSION['id_us'])) {
@@ -139,7 +139,7 @@ if ($id_rol == '4') {
                             </div>
 
                             <div class="d-grid gap-2">
-                                <a class="btn btn-danger" href="../index.php" role="button">Inicio</a>
+                                <a class="btn btn-danger" href="index.php" role="button">Inicio</a>
                             </div>
 
                         </form>
